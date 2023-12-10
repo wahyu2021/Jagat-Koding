@@ -20,6 +20,8 @@ int main(){
     cout << nama[0] << endl;
     cout << nama[1] << endl;
     cout << nama[2] << endl;
+
+    cout << sizeof(nilai) << endl;
     
     return 0;
 }
